@@ -1,0 +1,4 @@
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = mongodb+srv://kasim:123456kasi@cluster0.wj30r.mongodb.net/ok
+JWT_SECRET = abc123
